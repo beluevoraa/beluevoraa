@@ -1,7 +1,7 @@
 # 💘 Hi! I'm Belén! 💘
 
 Welcome to my GitHub profile! Here I'll share my projects and adventures.
-
+![beluevoraa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beluevoraa&theme=bear&show_icons=true&hide_border=true&layout=compact)
 ### 💌 About me 💌
 
 I am a web development student, passionate about design and I'm always learning something new. I love dogs and I'm a proud dog mom of three! 
