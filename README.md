@@ -1,9 +1,5 @@
 # 💘 Hi! I'm Belén! 💘
 
-<div align="center">
-  <img src="https://github.com/beluevoraa/portfolio-1/blob/main/Disen%CC%83o%20sin%20ti%CC%81tulo%20(8).png" alt="background">
-</div>
-
 Welcome to my GitHub profile! Here I'll share my projects and adventures.
 
 ### 💌 About me 💌
