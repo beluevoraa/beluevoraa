@@ -1,5 +1,5 @@
 # 💘 Hi! I'm Belén! 💘
-
+https://github.com/beluevoraa/portfolio-1/blob/main/Disen%CC%83o%20sin%20ti%CC%81tulo%20(8).png
 Welcome to my GitHub profile! here I'll share my projects and adventures
 
 
@@ -17,9 +17,7 @@ I am a web development student, passionate about design and I'm always learning 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 
 ## 💖 My prettiest projects 💖
-<div style="background-color:#FFDFD3; padding: 15px; border-radius: 10px;">
-- **Online Store**: This is a store created with HTML and CSS. It is only the front-end and lacks the actual functionality. I took the opportunity to use clothes I no longer wanted. I really like the color palette I used.
-</div>
+
 - [My little store](https://beluevoraa.github.io/tiendita/): This is a store created with HTML and CSS. It is only the front-end and lacks the actual functionality.
 I took the opportunity to use clothes I no longer wanted. I really like the color palette I used.
 
