@@ -1,13 +1,14 @@
 # 💘 Hi! I'm Belén! 💘
-![background](https://github.com/beluevoraa/portfolio-1/blob/main/Disen%CC%83o%20sin%20ti%CC%81tulo%20(8).png)
-Welcome to my GitHub profile! here I'll share my projects and adventures
 
+<div align="center">
+  <img src="https://github.com/beluevoraa/portfolio-1/blob/main/Disen%CC%83o%20sin%20ti%CC%81tulo%20(8).png" alt="background">
+</div>
+
+Welcome to my GitHub profile! Here I'll share my projects and adventures.
 
 ### 💌 About me 💌
 
-<div style="background-color:#FDE2E4; padding: 10px; border-radius: 10px;">
 I am a web development student, passionate about design and I'm always learning something new. I love dogs and I'm a proud dog mom of three! 
-</div>
 
 ## ❤️‍🔥 Skills
 
@@ -23,9 +24,4 @@ I took the opportunity to use clothes I no longer wanted. I really like the colo
 
 ## 🌷 Contact 🌷
 
-- [Instagram](https://www.instagram.com/beluevora?igsh=MTA2YzZ5ejhlN2d3eQ%3D%3D&utm_source=qr)
-- [Mail](mailto:beluuevora@gmail.com)
-
----
-**Thank you for visiting my profile :)** ✨✨✨
-
+- [Instagram](https://www.instagram.com/beluevora?igsh=MTA2YzZ5ej
