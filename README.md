@@ -17,8 +17,10 @@ I am a web development student, passionate about design and I'm always learning 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 
 ## 💖 My prettiest projects 💖
-
-- [My little store](https://github.com/beluevoraa/tiendita.git): This is a store created with HTML and CSS. It is only the front-end and lacks the actual functionality.
+<div style="background-color:#FFDFD3; padding: 15px; border-radius: 10px;">
+- **Online Store**: This is a store created with HTML and CSS. It is only the front-end and lacks the actual functionality. I took the opportunity to use clothes I no longer wanted. I really like the color palette I used.
+</div>
+- [My little store](https://beluevoraa.github.io/tiendita/): This is a store created with HTML and CSS. It is only the front-end and lacks the actual functionality.
 I took the opportunity to use clothes I no longer wanted. I really like the color palette I used.
 
 ## 🌷 Contact 🌷
