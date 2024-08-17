@@ -5,9 +5,6 @@ Welcome to my GitHub profile! Here I'll share my projects and adventures.
 ---
 ![beluevoraa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beluevoraa&theme=bear&show_icons=true&hide_border=true&layout=compact) ![beluevoraa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=beluevoraa&theme=bear&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=beluevoraa&theme=rose-pine&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
 
 ### 💌 About me 💌
 
